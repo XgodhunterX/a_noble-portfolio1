@@ -1,0 +1,52 @@
+
+body {
+	background-image: url(../images/bg.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size:cover;
+	background-position: center;
+	background-attachment: fixed;
+	font-family: 'Source Sans Pro', sans-serif;
+	/*color: white*/
+}	
+
+
+h1 {
+	color: white;
+	font-size: 50px;
+	font-weight: normal;
+	margin-bottom: 0;
+}
+
+h2 {
+	color: white;
+	font-size: 18px;
+	margin-top: 0;
+}
+
+strong {
+	color: white;
+	background-color: red;
+}
+
+.bio{
+	color: white;
+	font-size: 14px;
+}
+
+.me{
+	height: 150px;
+	border-radius: 100%;
+	border-style: solid;
+	border-color: white;
+	margin-top: 40px;
+}
+
+.about{
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
